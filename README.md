@@ -3,9 +3,9 @@ The Most Fastest Facebook Friend List Bruter . Contribute to mohamedgsgxo/flb3de
 
 
 
-pkg update
+ update
 
-pkg upgrade
+ upgrade
 
 pkg install git
 
